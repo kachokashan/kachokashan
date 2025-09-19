@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kachokashan" alt="kachokashan" /></a> </p>
 
 - 🌱 I’m currently learning **Modern Web Application Development**
+- 💬 Ask me about **HTML , CSS , JavaScript**
+- 📫 How to reach me kachokashan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
